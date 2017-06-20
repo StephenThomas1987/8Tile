@@ -1,0 +1,4 @@
+﻿  EightTile.cpp
+c:\users\macab\desktop\8tilesproblem\8tilesproblem\eighttile.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  8TilesProblem.vcxproj -> C:\Users\macab\Desktop\8TilesProblem\Debug\8TilesProblem.exe
+  8TilesProblem.vcxproj -> C:\Users\macab\Desktop\8TilesProblem\Debug\8TilesProblem.pdb (Partial PDB)
